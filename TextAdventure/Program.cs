@@ -11,9 +11,10 @@ namespace TextAdventure
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a number");
+            Console.WriteLine("Wijziging voor git");
             //int i = Convert.ToInt32(Console.ReadLine());
             //if (i == 0)
-            for(;;)
+            for (;;)
             {
                 int i = Convert.ToInt32(Console.ReadLine());
                 if (i != 0)
