@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAdventure", "TextAdventure\TextAdventure.csproj", "{D9EBD1F3-0BE7-463F-B3F0-A02045D189FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decisions", "Decisions\Decisions.csproj", "{13DE8FCB-4939-4556-96B1-35FA4EA2F5FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D9EBD1F3-0BE7-463F-B3F0-A02045D189FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9EBD1F3-0BE7-463F-B3F0-A02045D189FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9EBD1F3-0BE7-463F-B3F0-A02045D189FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DE8FCB-4939-4556-96B1-35FA4EA2F5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE8FCB-4939-4556-96B1-35FA4EA2F5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DE8FCB-4939-4556-96B1-35FA4EA2F5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DE8FCB-4939-4556-96B1-35FA4EA2F5FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
