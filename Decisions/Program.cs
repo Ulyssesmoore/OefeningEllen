@@ -36,10 +36,10 @@ namespace Decisions
 
 
                 Console.WriteLine("Bob's Big Giveaway");
-                Console.Write("Choose a door: 1, 2 or 3: ");
-                string userValue = Console.ReadLine();
+            //Console.Write("Choose a door: 1, 2 or 3: ");
+            //string userValue = Console.ReadLine();
 
-                string message = (userValue == "1") ? "boat" : "strand of lint";
+            //string message = (userValue == "1") ? "boat" : "strand of lint";
             // Console.Write("You won a ");
             //Console.Write(message);
             //Console.Write(".");
@@ -47,7 +47,11 @@ namespace Decisions
 
             //Console.WriteLine("You wona {0}.", message);
 
-            Console.WriteLine("You enterd: {0}, therefore you won a {1}.", userValue, message);
+            //Console.WriteLine("You enterd: {0}, therefore you won a {1}.", userValue, message);
+
+            int userValue = 2;
+            string message = (userValue == 1) ? "boat" : "car";
+            Console.WriteLine("{1} - {0}", userValue, message);
 
             Console.ReadLine();
 
