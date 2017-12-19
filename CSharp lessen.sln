@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethod", "SimpleMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileIteration", "WhileIteration\WhileIteration.csproj", "{D4CA066F-05CF-4B79-B14A-B1EB33C08704}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D4CA066F-05CF-4B79-B14A-B1EB33C08704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4CA066F-05CF-4B79-B14A-B1EB33C08704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4CA066F-05CF-4B79-B14A-B1EB33C08704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
