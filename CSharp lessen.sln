@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{FA434437-4B80-454F-B300-95278FB1A439}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClasses", "SimpleClasses\SimpleClasses.csproj", "{64C51CC8-3228-4ED8-ACA2-1B72F1C64BF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FA434437-4B80-454F-B300-95278FB1A439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA434437-4B80-454F-B300-95278FB1A439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA434437-4B80-454F-B300-95278FB1A439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C51CC8-3228-4ED8-ACA2-1B72F1C64BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C51CC8-3228-4ED8-ACA2-1B72F1C64BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C51CC8-3228-4ED8-ACA2-1B72F1C64BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C51CC8-3228-4ED8-ACA2-1B72F1C64BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
