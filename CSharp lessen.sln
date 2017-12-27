@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileIteration", "WhileIter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{FA434437-4B80-454F-B300-95278FB1A439}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD24E6BE-98F8-4B10-A75F-5ADD9D566C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA434437-4B80-454F-B300-95278FB1A439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA434437-4B80-454F-B300-95278FB1A439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA434437-4B80-454F-B300-95278FB1A439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA434437-4B80-454F-B300-95278FB1A439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
